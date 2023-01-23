@@ -1,0 +1,4 @@
+*.png
+/docs/
+.Rhistory
+/.Rproj.user/
